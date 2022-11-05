@@ -4,6 +4,8 @@ namespace _1.DAL
 {
     public class Class1
     {
-        int test;
+        int demo;
+        int demo2;
+        int demo3;
     }
 }
