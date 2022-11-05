@@ -6,5 +6,6 @@ namespace _1.DAL
     {
         int demo;
         int demo2;
+        int demo3;
     }
 }
